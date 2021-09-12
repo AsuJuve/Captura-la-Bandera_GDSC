@@ -1,4 +1,4 @@
-# Captura la Bandera GDSC UAZ
+# ⛳ Captura la Bandera GDSC UAZ
 
 Si haz llegado hasta aquí significa que te encuentras cerca de **capturar la bandera,** que haz conocido mejor el servidor de Discord de la comunidad, y claro, podrás resaltar entre los demás que asistieron a la transmisión de hoy al obtener la bandera 😎. 
 
@@ -24,21 +24,21 @@ Si no conoces la manera para descargar un repositorio de GitHub o ejecutar un pr
 
 1. Como primer paso, daremos click en el botón verde que dice "Code". encontrandonos en la página principal del repositorio.
 
-    ![Screenshot from 2021-09-12 15-56-16.png](Captura%20la%20Bandera%20GDSC%20UAZ%20dc5d2985740542729c85ad82a6411aed/Screenshot_from_2021-09-12_15-56-16.png)
+    ![Screenshot from 2021-09-12 15-56-16.png](README_images/Screenshot_from_2021-09-12_15-56-16.png)
 
 2. Ahora que se nos muestran las opciones para descargar el repositorio, daremos click en el botón que dice "Download ZIP". Esto para descargar un archivo comprimido con el programa que ejecutarás.
 
-    ![Screenshot from 2021-09-12 15-56-33.png](Captura%20la%20Bandera%20GDSC%20UAZ%20dc5d2985740542729c85ad82a6411aed/Screenshot_from_2021-09-12_15-56-33.png)
+    ![Screenshot from 2021-09-12 15-56-33.png](README_images/Screenshot_from_2021-09-12_15-56-33.png)
 
 3. Ahora que se descargó el archivo ZIP, lo extraeremos para obtener los siguientes archivos: 
 
-    ![Screenshot from 2021-09-12 16-00-33.png](Captura%20la%20Bandera%20GDSC%20UAZ%20dc5d2985740542729c85ad82a6411aed/Screenshot_from_2021-09-12_16-00-33.png)
+    ![Screenshot from 2021-09-12 16-00-33.png](README_images/Screenshot_from_2021-09-12_16-00-33.png)
 
     Recuerda no modificar de ninguna manera los archivos, de manera contraria el programa no se ejecutará de maner correcta.
 
 4. Desde la consola de comandos, nos ubicaremos en la carpeta donde se extrajeron los archivos, y ejecutaremos el siguiente comando:
 
-    ![Screenshot from 2021-09-12 16-01-31.png](Captura%20la%20Bandera%20GDSC%20UAZ%20dc5d2985740542729c85ad82a6411aed/Screenshot_from_2021-09-12_16-01-31.png)
+    ![Screenshot from 2021-09-12 16-01-31.png](README_images/Screenshot_from_2021-09-12_16-01-31.png)
 
     Copia el comando para evitar cualquier error de tipografía:
 
